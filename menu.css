@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text:100,300,400,500,600,700,800,900&display=swap'); /* font family: 'Big Shoulders Text', cursive; */
+
+
+
+.nav-flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: absolute;
+    z-index: 100;
+    left: 0;
+    width: 100%;
+    padding: 0;
+}
+
+.nav-flex-row li {
+    text-decoration: none;
+    list-style-type: none;
+    padding: 20px 15px;
+}
+
+.nav-flex-row li a {
+    font-family: 'Big Shoulders Text', cursive;
+    color: #060606;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.section-intro {
+    padding: 10px;
+    height: 1220px;
+    background-image: url(img/27f84d5afef8647c19cffe61b7ff5710.jpg);
+    background-size: 800px 1100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+   
+
+}
+.menuuu{
+     color: #ffffff;   
+     font-family: 'Big Shoulders Text', cursive;
+     font-size: 1.5em;
+    
+}
+.div-menu{
+    padding-top: 150px;
+}
+
